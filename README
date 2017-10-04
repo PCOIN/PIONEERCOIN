@@ -1,2 +1,21 @@
+
+Essentially, PCOIN make life easier for those who don’t want pay using a check, cash or credit cards (directly).
+
+PCOIN new digital currency is also riding this wave. Aiming to make online payments simple, It is more focused on businesses. PCOIN offers fast processing for online business and promises the lowest rates and they promise to beat any lower fees. There are no other hidden or monthly fees, nor per transaction costs.
+
+Having a web wallet ensures that you’re and the client’s financial and personal information are both kept confidential. This is even more essential for Transactions happening virtually and/or over long distances, in which the seller has little or no client access “in the flesh”. On the other side, customers will obviously feel more secure as well, as they do not have to enter personal and banking information on a store they know little about.
+
+Pioneer COIN can deliver all this security, PCOIN web wallet takes security seriously. It tracks all transactions, from the moment they are made until the money reaches the respective other wallet, and has several fraud monitoring and detection processes in place, which actually use machine-learning technology to become more effective with time.
+
+Coin Specification 
+
+PIONEER COIN SPECIFICATIONS
+Coin Type: PoW
+Algorithm: X11
+Block Time: 120 SEC
+Block Reward: 22
+Block Halving Rate: 500,000
+Total Coins: 23000000
+Difficulty Retargetting Algorithm : Dark Gravity Wave
 rpc port: 35515
 net port: 35514
